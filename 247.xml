@@ -6,27 +6,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Breaking Bad">
     <title>Breaking Bad</title>
     <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20080120</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">49</length>
+    <star-rating system="IMDB">
+      <value>9.5</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Breaking Bad">
     <title>Breaking Bad</title>
     <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20080120</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">49</length>
+    <star-rating system="IMDB">
+      <value>9.5</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Breaking Bad">
     <title>Breaking Bad</title>
     <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20080120</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">49</length>
+    <star-rating system="IMDB">
+      <value>9.5</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Breaking Bad">
     <title>Breaking Bad</title>
     <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20080120</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">49</length>
+    <star-rating system="IMDB">
+      <value>9.5</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Breaking Bad">
     <title>Breaking Bad</title>
     <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20080120</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">49</length>
+    <star-rating system="IMDB">
+      <value>9.5</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Game of Thrones">
     <display-name>Game of Thrones</display-name>
@@ -35,27 +70,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Game of Thrones">
     <title>Game of Thrones</title>
     <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20110417</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">57</length>
+    <star-rating system="IMDB">
+      <value>9.2</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Game of Thrones">
     <title>Game of Thrones</title>
     <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20110417</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">57</length>
+    <star-rating system="IMDB">
+      <value>9.2</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Game of Thrones">
     <title>Game of Thrones</title>
     <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20110417</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">57</length>
+    <star-rating system="IMDB">
+      <value>9.2</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Game of Thrones">
     <title>Game of Thrones</title>
     <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20110417</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">57</length>
+    <star-rating system="IMDB">
+      <value>9.2</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Game of Thrones">
     <title>Game of Thrones</title>
     <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20110417</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">57</length>
+    <star-rating system="IMDB">
+      <value>9.2</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Superstore">
     <display-name>Superstore</display-name>
@@ -64,27 +134,52 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Superstore">
     <title>Superstore</title>
     <desc>A look at the lives of employees at a big box store.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20151130</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>7.9</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Superstore">
     <title>Superstore</title>
     <desc>A look at the lives of employees at a big box store.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20151130</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>7.9</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Superstore">
     <title>Superstore</title>
     <desc>A look at the lives of employees at a big box store.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20151130</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>7.9</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Superstore">
     <title>Superstore</title>
     <desc>A look at the lives of employees at a big box store.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20151130</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>7.9</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Superstore">
     <title>Superstore</title>
     <desc>A look at the lives of employees at a big box store.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20151130</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>7.9</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Ted Lasso">
     <display-name>Ted Lasso</display-name>
@@ -93,27 +188,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Ted Lasso">
     <title>Ted Lasso</title>
     <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20200814</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sport</category>
+    <length units="minutes">30</length>
+    <star-rating system="IMDB">
+      <value>8.8</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Ted Lasso">
     <title>Ted Lasso</title>
     <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20200814</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sport</category>
+    <length units="minutes">30</length>
+    <star-rating system="IMDB">
+      <value>8.8</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Ted Lasso">
     <title>Ted Lasso</title>
     <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20200814</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sport</category>
+    <length units="minutes">30</length>
+    <star-rating system="IMDB">
+      <value>8.8</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Ted Lasso">
     <title>Ted Lasso</title>
     <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20200814</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sport</category>
+    <length units="minutes">30</length>
+    <star-rating system="IMDB">
+      <value>8.8</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Ted Lasso">
     <title>Ted Lasso</title>
     <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20200814</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sport</category>
+    <length units="minutes">30</length>
+    <star-rating system="IMDB">
+      <value>8.8</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - 24">
     <display-name>24</display-name>
@@ -122,27 +252,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - 24">
     <title>24</title>
     <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+    <date>20011106</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - 24">
     <title>24</title>
     <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+    <date>20011106</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - 24">
     <title>24</title>
     <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+    <date>20011106</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - 24">
     <title>24</title>
     <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+    <date>20011106</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - 24">
     <title>24</title>
     <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+    <date>20011106</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Friends">
     <display-name>Friends</display-name>
@@ -151,27 +316,57 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Friends">
     <title>Friends</title>
     <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19940922</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Friends">
     <title>Friends</title>
     <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19940922</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Friends">
     <title>Friends</title>
     <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19940922</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Friends">
     <title>Friends</title>
     <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19940922</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Friends">
     <title>Friends</title>
     <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19940922</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - How I Met Your Mother">
     <display-name>How I Met Your Mother</display-name>
@@ -180,27 +375,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - How I Met Your Mother">
     <title>How I Met Your Mother</title>
     <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+    <date>20050919</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - How I Met Your Mother">
     <title>How I Met Your Mother</title>
     <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+    <date>20050919</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - How I Met Your Mother">
     <title>How I Met Your Mother</title>
     <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+    <date>20050919</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - How I Met Your Mother">
     <title>How I Met Your Mother</title>
     <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+    <date>20050919</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - How I Met Your Mother">
     <title>How I Met Your Mother</title>
     <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+    <date>20050919</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Lost">
     <display-name>Lost</display-name>
@@ -209,27 +439,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Lost">
     <title>Lost</title>
     <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20040922</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Lost">
     <title>Lost</title>
     <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20040922</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Lost">
     <title>Lost</title>
     <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20040922</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Lost">
     <title>Lost</title>
     <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20040922</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Lost">
     <title>Lost</title>
     <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20040922</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.3</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Modern Family">
     <display-name>Modern Family</display-name>
@@ -238,27 +503,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Modern Family">
     <title>Modern Family</title>
     <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20090923</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.5</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Modern Family">
     <title>Modern Family</title>
     <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20090923</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.5</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Modern Family">
     <title>Modern Family</title>
     <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20090923</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.5</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Modern Family">
     <title>Modern Family</title>
     <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20090923</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.5</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Modern Family">
     <title>Modern Family</title>
     <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20090923</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.5</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Money Heist">
     <display-name>Money Heist</display-name>
@@ -267,27 +567,62 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Money Heist">
     <title>Money Heist</title>
     <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20170502</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">70</length>
+    <star-rating system="IMDB">
+      <value>8.2</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Money Heist">
     <title>Money Heist</title>
     <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20170502</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">70</length>
+    <star-rating system="IMDB">
+      <value>8.2</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Money Heist">
     <title>Money Heist</title>
     <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20170502</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">70</length>
+    <star-rating system="IMDB">
+      <value>8.2</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Money Heist">
     <title>Money Heist</title>
     <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20170502</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">70</length>
+    <star-rating system="IMDB">
+      <value>8.2</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Money Heist">
     <title>Money Heist</title>
     <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20170502</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">70</length>
+    <star-rating system="IMDB">
+      <value>8.2</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - Seinfeld">
     <display-name>Seinfeld</display-name>
@@ -296,27 +631,52 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Seinfeld">
     <title>Seinfeld</title>
     <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19890705</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Seinfeld">
     <title>Seinfeld</title>
     <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19890705</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Seinfeld">
     <title>Seinfeld</title>
     <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19890705</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Seinfeld">
     <title>Seinfeld</title>
     <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19890705</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Seinfeld">
     <title>Seinfeld</title>
     <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>19890705</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.9</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - The Big Bang Theory">
     <display-name>The Big Bang Theory</display-name>
@@ -325,27 +685,57 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - The Big Bang Theory">
     <title>The Big Bang Theory</title>
     <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20070924</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - The Big Bang Theory">
     <title>The Big Bang Theory</title>
     <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20070924</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - The Big Bang Theory">
     <title>The Big Bang Theory</title>
     <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20070924</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - The Big Bang Theory">
     <title>The Big Bang Theory</title>
     <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20070924</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - The Big Bang Theory">
     <title>The Big Bang Theory</title>
     <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20070924</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - The Office">
     <display-name>The Office</display-name>
@@ -354,27 +744,52 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - The Office">
     <title>The Office</title>
     <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20050324</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>9.0</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - The Office">
     <title>The Office</title>
     <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20050324</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>9.0</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - The Office">
     <title>The Office</title>
     <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20050324</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>9.0</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - The Office">
     <title>The Office</title>
     <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20050324</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>9.0</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - The Office">
     <title>The Office</title>
     <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20050324</date>
+    <category lang="en">Comedy</category>
+    <length units="minutes">22</length>
+    <star-rating system="IMDB">
+      <value>9.0</value>
+    </star-rating>
   </programme>
   <channel id="24x7 - The Walking Dead">
     <display-name>The Walking Dead</display-name>
@@ -383,26 +798,120 @@
   <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - The Walking Dead">
     <title>The Walking Dead</title>
     <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20101031</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - The Walking Dead">
     <title>The Walking Dead</title>
     <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20101031</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - The Walking Dead">
     <title>The Walking Dead</title>
     <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20101031</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - The Walking Dead">
     <title>The Walking Dead</title>
     <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20101031</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
   </programme>
   <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - The Walking Dead">
     <title>The Walking Dead</title>
     <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
-    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+    <date>20101031</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.1</value>
+    </star-rating>
+  </programme>
+  <channel id="24x7 - Suits">
+    <display-name>Suits</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="24x7 - Suits">
+    <title>Suits</title>
+    <desc>On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.</desc>
+    <date>20110623</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="24x7 - Suits">
+    <title>Suits</title>
+    <desc>On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.</desc>
+    <date>20110623</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="24x7 - Suits">
+    <title>Suits</title>
+    <desc>On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.</desc>
+    <date>20110623</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="24x7 - Suits">
+    <title>Suits</title>
+    <desc>On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.</desc>
+    <date>20110623</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="24x7 - Suits">
+    <title>Suits</title>
+    <desc>On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers.</desc>
+    <date>20110623</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <length units="minutes">44</length>
+    <star-rating system="IMDB">
+      <value>8.4</value>
+    </star-rating>
   </programme>
 </tv>
