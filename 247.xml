@@ -1,0 +1,408 @@
+<tv source-info-name="Custom EPG Generator" generator-info-name="YourApp" generator-info-url="https://yourapp.local">
+  <channel id="tt0903747">
+    <display-name>Breaking Bad</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0903747">
+    <title>Breaking Bad</title>
+    <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0903747">
+    <title>Breaking Bad</title>
+    <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0903747">
+    <title>Breaking Bad</title>
+    <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0903747">
+    <title>Breaking Bad</title>
+    <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0903747">
+    <title>Breaking Bad</title>
+    <desc>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0944947">
+    <display-name>Game of Thrones</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0944947">
+    <title>Game of Thrones</title>
+    <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0944947">
+    <title>Game of Thrones</title>
+    <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0944947">
+    <title>Game of Thrones</title>
+    <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0944947">
+    <title>Game of Thrones</title>
+    <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0944947">
+    <title>Game of Thrones</title>
+    <desc>Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt4477976">
+    <display-name>Superstore</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt4477976">
+    <title>Superstore</title>
+    <desc>A look at the lives of employees at a big box store.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt4477976">
+    <title>Superstore</title>
+    <desc>A look at the lives of employees at a big box store.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt4477976">
+    <title>Superstore</title>
+    <desc>A look at the lives of employees at a big box store.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt4477976">
+    <title>Superstore</title>
+    <desc>A look at the lives of employees at a big box store.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt4477976">
+    <title>Superstore</title>
+    <desc>A look at the lives of employees at a big box store.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZTAyMWQ4MjAtMjYyOC00YmM0LTg4OWQtZjIzYzY0NzAyZGM2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt10986410">
+    <display-name>Ted Lasso</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt10986410">
+    <title>Ted Lasso</title>
+    <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt10986410">
+    <title>Ted Lasso</title>
+    <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt10986410">
+    <title>Ted Lasso</title>
+    <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt10986410">
+    <title>Ted Lasso</title>
+    <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt10986410">
+    <title>Ted Lasso</title>
+    <desc>American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0285331">
+    <display-name>24</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0285331">
+    <title>24</title>
+    <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0285331">
+    <title>24</title>
+    <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0285331">
+    <title>24</title>
+    <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0285331">
+    <title>24</title>
+    <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0285331">
+    <title>24</title>
+    <desc>Counter Terrorism Agent Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0108778">
+    <display-name>Friends</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0108778">
+    <title>Friends</title>
+    <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0108778">
+    <title>Friends</title>
+    <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0108778">
+    <title>Friends</title>
+    <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0108778">
+    <title>Friends</title>
+    <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0108778">
+    <title>Friends</title>
+    <desc>The personal and professional lives of six friends living in the Manhattan borough of New York City.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0460649">
+    <display-name>How I Met Your Mother</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0460649">
+    <title>How I Met Your Mother</title>
+    <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0460649">
+    <title>How I Met Your Mother</title>
+    <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0460649">
+    <title>How I Met Your Mother</title>
+    <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0460649">
+    <title>How I Met Your Mother</title>
+    <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0460649">
+    <title>How I Met Your Mother</title>
+    <desc>A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0411008">
+    <display-name>Lost</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0411008">
+    <title>Lost</title>
+    <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0411008">
+    <title>Lost</title>
+    <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0411008">
+    <title>Lost</title>
+    <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0411008">
+    <title>Lost</title>
+    <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0411008">
+    <title>Lost</title>
+    <desc>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt1442437">
+    <display-name>Modern Family</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt1442437">
+    <title>Modern Family</title>
+    <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt1442437">
+    <title>Modern Family</title>
+    <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt1442437">
+    <title>Modern Family</title>
+    <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt1442437">
+    <title>Modern Family</title>
+    <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt1442437">
+    <title>Modern Family</title>
+    <desc>Three different, but related, families face trials and tribulations in their own uniquely comedic ways.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt6468322">
+    <display-name>Money Heist</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt6468322">
+    <title>Money Heist</title>
+    <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt6468322">
+    <title>Money Heist</title>
+    <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt6468322">
+    <title>Money Heist</title>
+    <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt6468322">
+    <title>Money Heist</title>
+    <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt6468322">
+    <title>Money Heist</title>
+    <desc>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0098904">
+    <display-name>Seinfeld</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0098904">
+    <title>Seinfeld</title>
+    <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0098904">
+    <title>Seinfeld</title>
+    <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0098904">
+    <title>Seinfeld</title>
+    <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0098904">
+    <title>Seinfeld</title>
+    <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0098904">
+    <title>Seinfeld</title>
+    <desc>The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMmRjNjZjN2ItN2FkYi00ZDg0LWExN2EtMTU2ODUwNWU1M2NhXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0898266">
+    <display-name>The Big Bang Theory</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0898266">
+    <title>The Big Bang Theory</title>
+    <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0898266">
+    <title>The Big Bang Theory</title>
+    <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0898266">
+    <title>The Big Bang Theory</title>
+    <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0898266">
+    <title>The Big Bang Theory</title>
+    <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0898266">
+    <title>The Big Bang Theory</title>
+    <desc>The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt0386676">
+    <display-name>The Office</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt0386676">
+    <title>The Office</title>
+    <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt0386676">
+    <title>The Office</title>
+    <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt0386676">
+    <title>The Office</title>
+    <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt0386676">
+    <title>The Office</title>
+    <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt0386676">
+    <title>The Office</title>
+    <desc>A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <channel id="tt1520211">
+    <display-name>The Walking Dead</display-name>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </channel>
+  <programme start="20260303000000 -0500" stop="20260303235959 -0500" channel="tt1520211">
+    <title>The Walking Dead</title>
+    <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260304000000 -0500" stop="20260304235959 -0500" channel="tt1520211">
+    <title>The Walking Dead</title>
+    <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260305000000 -0500" stop="20260305235959 -0500" channel="tt1520211">
+    <title>The Walking Dead</title>
+    <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260306000000 -0500" stop="20260306235959 -0500" channel="tt1520211">
+    <title>The Walking Dead</title>
+    <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+  <programme start="20260307000000 -0500" stop="20260307235959 -0500" channel="tt1520211">
+    <title>The Walking Dead</title>
+    <desc>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.</desc>
+    <icon src="https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg" />
+  </programme>
+</tv>
